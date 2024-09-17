@@ -1,0 +1,30 @@
+[
+    {
+        "threat_id": "1",
+        "threat_type": "Malware",
+        "description": "A new variant of ransomware targeting healthcare organizations.",
+        "source": "Threat Intelligence Platform A",
+        "timestamp": "2024-09-16T12:00:00Z"
+    },
+    {
+        "threat_id": "2",
+        "threat_type": "Phishing",
+        "description": "A phishing campaign targeting financial institutions.",
+        "source": "Threat Intelligence Platform B",
+        "timestamp": "2024-09-16T12:05:00Z"
+    },
+    {
+        "threat_id": "3",
+        "threat_type": "Malware",
+        "description": "A trojan horse malware spreading through email attachments.",
+        "source": "Threat Intelligence Platform A",
+        "timestamp": "2024-09-16T12:10:00Z"
+    },
+    {
+        "threat_id": "4",
+        "threat_type": "DDoS",
+        "description": "A distributed denial-of-service attack targeting e-commerce websites.",
+        "source": "Threat Intelligence Platform C",
+        "timestamp": "2024-09-16T12:15:00Z"
+    }
+]
